@@ -1,7 +1,9 @@
 ### Hi there 👋
-### I am Kaopong Sangkittiyakorn
-Software Developer
-Kasetsart University
+I am **Kaopong Sangkittiyakorn**
+ - 🌱 I'm interested in **Web and App development**
+ - 👨‍💻 I love to learn more about **Cyber Security** and **AI & Machine Learning**
+ - 💬 Contact me kuikaopong.2002@gmail.com
+###
 <!--
 **kuisskui/kuisskui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
