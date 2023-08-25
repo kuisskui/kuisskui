@@ -3,7 +3,7 @@ I'm a software engineer from Thailand
  - 🌱 I'm interested in **Web and App development**
  - 👨‍💻 I love to learn more about **Cyber Security** and **AI & Machine Learning**
  - 💬 Contact me kuikaopong.2002@gmail.com
-### Things I code with
+### Things I touched
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
