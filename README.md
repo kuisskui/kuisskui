@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a software engineer from Thailand
  - 🌱 I'm interested in **Web and App development**
- - 👨‍💻 I love to learn more about **Cyber Security** and **AI & Machine Learning**
+ - 👨‍💻 I love to learn more about **AI & Machine Learning**
  - 💬 Contact me kuikaopong.2002@gmail.com
  - ⚡ Fun fact: 😻
 ### Things I've been through
