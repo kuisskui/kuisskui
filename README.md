@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a software engineer from Thailand
- - 🌱 I'm interested in **Web and App development**
+I'm a software developer.
+ - 🌱 I'm interested in **web service development**
  - 👨‍💻 I love to learn more about **AI & Machine Learning**
  - 💬 Contact me kuikaopong.2002@gmail.com
  - ⚡ Fun fact: 😻
